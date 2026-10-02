@@ -1,16 +1,72 @@
-# React + Vite
+# Developer World
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> An interactive 3D developer portfolio built to showcase my projects, skills, achievements, and web development journey through an immersive digital environment.
 
-Currently, two official plugins are available:
+## ✨ Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Developer World** is an interactive 3D portfolio website designed as a virtual developer workspace rather than a traditional portfolio.
 
-## React Compiler
+Instead of navigating through simple sections, users can explore an interactive environment and access different parts of my portfolio through clickable objects and navigation elements.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The project combines **React, Three.js, 3D graphics, animations, and modern UI design** to create an engaging way to present my work.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Features
+
+-  **Interactive 3D Environment**
+  - Explore a virtual developer workspace
+  - Interactive objects and hotspots
+
+-  **Project Showcase**
+  - Explore my development projects
+  - View project descriptions and technologies used
+
+-  **Skills Section**
+  - Displays my technical skills and proficiency areas
+  - Includes technologies such as React, JavaScript, C++, Python, SQL and more
+
+- **Achievements**
+  - Highlights hackathons, competitions and development experiences
+
+-  **About Me**
+  - Introduction and developer profile
+
+-  **Contact Section**
+  - Easy access to contact and social links
+
+-  **Modern UI**
+  - Interactive panels
+  - Smooth transitions
+  - Responsive interface
+  - Immersive visual design
+
+-  **Interactive Navigation**
+  - Users can interact with different elements of the environment to navigate through the portfolio
+
+---
+
+##  Tech Stack
+
+### Frontend
+- React
+- JavaScript
+- HTML5
+- CSS3
+
+### 3D & Graphics
+- Three.js
+- React Three Fiber
+
+### Development Tools
+- Vite
+- VS Code
+- Git
+- GitHub
+
+### Deployment
+- Vercel
+
+### This is just my attempt at trying to make a 3D interactive website portfolio.I wanted to experiment with a more interactive approach.
+
+The goal of Developer World was to combine my interest in web development and 3D experiences into a portfolio that feels more like exploring a digital environment than browsing a conventional website.
